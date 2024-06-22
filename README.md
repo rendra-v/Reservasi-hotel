@@ -4,7 +4,7 @@ File ini menjelaskan kelengkapan berkas proyek akhir kami yang berjudul Reservas
 
 2. Source code project NetBeans
 
-3. Link Repository GitHub: https://github.com/rendra-v/Reservasi-hotel
+3. Link Repository GitHub: https://github.com/rendra-v/Reservasi-hotel.git
 
 Kelompok LAVIEN45:
 
