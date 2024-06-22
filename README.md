@@ -12,4 +12,4 @@ Rafli Dika Rendra Arifin, B, 1402023053
 
 Raden Bagus Zhafir Munif, A, 1402023051
 
-Dharvyn Aliya Miro, A, 1402023018
+Dharvyn Aliyya Miro, A, 1402023018
