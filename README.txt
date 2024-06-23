@@ -2,9 +2,15 @@ File ini menjelaskan kelengkapan berkas proyek akhir kami yang berjudul Reservas
 
 File database sql dengan nama database: reservasi_hotel
 
+File project dengan nama : LastProjectPBO(3).zip
+
+File revisi project dengan nama: RevisiLastProject.zip
+
 Source code project NetBeans
 
 Link Repository GitHub: https://github.com/rendra-v/Reservasi-hotel.git
+
+Link Youtube: https://youtu.be/mXW1yz_RPf4
 
 Kelompok LAVIEN45:
 
